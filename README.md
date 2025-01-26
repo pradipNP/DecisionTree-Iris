@@ -21,4 +21,4 @@ This project demonstrates how to use a **Decision Tree** for classifying iris fl
    git clone https://github.com/pradipNP/DecisionTree-Iris.git
 
 2. Run the Python file:
-   python decision_tree.py
+   - python decision_tree.py

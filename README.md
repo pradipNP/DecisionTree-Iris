@@ -53,7 +53,19 @@ The Iris dataset is a well-known dataset in machine learning, containing:
 ## Significance:
 This project illustrates the power of machine learning in solving classification problems. By using the Iris dataset, it highlights how decision trees can be used to make accurate and interpretable predictions. The visualizations make the learning process intuitive and understandable, even for beginners.
 
-# OUTPUT
+## Run iris_decision_tree_visualization.py :
+   - python iris_decision_tree_visualization.py
+
+## Output :
 
 ![Image](https://github.com/user-attachments/assets/4eb835ea-db3e-43db-84b6-c99dd6f4287b)
 
+
+## Run decision_tree.py :
+   - python decision_tree.py
+
+## Outputs :
+
+![Image](https://github.com/user-attachments/assets/7fc30ad2-d7b4-4033-82a7-221863b09e9e)
+![Image](https://github.com/user-attachments/assets/50ad7978-56da-4591-9590-0b651f351911)
+![Image](https://github.com/user-attachments/assets/847f1039-0730-4808-a123-e4820c708617)

@@ -27,8 +27,10 @@ Purpose: To ensure all tools are available to load data, build models, and visua
 
 
 2. Loading the Dataset
+
    from sklearn.datasets import load_iris
    iris = load_iris()
+   
 - The Iris dataset is a built-in dataset in scikit-learn. It contains 150 samples of Iris flowers with four features:
    - Sepal length
    - Sepal width

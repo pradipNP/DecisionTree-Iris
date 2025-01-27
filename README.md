@@ -1,9 +1,15 @@
 # DECISION TREE IMPLEMENTATION
+
 *COMPANY* : CODTECH IT SOLUTIONS
+
 *NAME* : PRADEEP KUMAR KOHAR
+
 *INTERN ID* : CODHC29
+
 *DOMAIN* : MACHINE LEARNING
+
 *DURATION* : 4 WEEKS
+
 *MENTOR* : NEELA SANTOSH
 
 This project demonstrates how to use a **Decision Tree** for classifying iris flowers. Built with **Python** and **scikit-learn**, it uses the famous **Iris Dataset** to train and visualize the decision tree model.
